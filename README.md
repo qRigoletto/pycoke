@@ -34,3 +34,9 @@ Este script Python renomeia arquivos e pastas com nomes inválidos, problemátic
    ```bash
    git clone https://github.com/qRigoletto/pycoke.git
    cd pycoke
+
+Execute o script:
+
+python3 script.py
+
+Informe o caminho da pasta que deseja corrigir quando solicitado.
